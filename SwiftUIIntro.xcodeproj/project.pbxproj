@@ -11,6 +11,9 @@
 		4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A23759E29ED4B0B00C8A52C /* ContentView.swift */; };
 		4A2375A129ED4B0C00C8A52C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A2375A029ED4B0C00C8A52C /* Assets.xcassets */; };
 		4A2375A429ED4B0C00C8A52C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A2375A329ED4B0C00C8A52C /* Preview Assets.xcassets */; };
+		4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4829ED51DB00B02F0E /* TextView.swift */; };
+		4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4A29ED729A00B02F0E /* Shapes.swift */; };
+		4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		4A23759E29ED4B0B00C8A52C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4A2375A029ED4B0C00C8A52C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A2375A329ED4B0C00C8A52C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4ABA5B4829ED51DB00B02F0E /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
+		4ABA5B4A29ED729A00B02F0E /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				4A23759C29ED4B0B00C8A52C /* SwiftUIIntroApp.swift */,
 				4A23759E29ED4B0B00C8A52C /* ContentView.swift */,
+				4ABA5B4A29ED729A00B02F0E /* Shapes.swift */,
+				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
+				4ABA5B4829ED51DB00B02F0E /* TextView.swift */,
 				4A2375A029ED4B0C00C8A52C /* Assets.xcassets */,
 				4A2375A229ED4B0C00C8A52C /* Preview Content */,
 			);
@@ -137,8 +146,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
+				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
 				4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */,
 				4A23759D29ED4B0B00C8A52C /* SwiftUIIntroApp.swift in Sources */,
+				4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
