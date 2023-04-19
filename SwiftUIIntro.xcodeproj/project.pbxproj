@@ -15,6 +15,7 @@
 		4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4A29ED729A00B02F0E /* Shapes.swift */; };
 		4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */; };
 		4ABA5B4F29EEC09B00B02F0E /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4E29EEC09B00B02F0E /* Gradients.swift */; };
+		4ABA5B5129EEDCE300B02F0E /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B5029EEDCE300B02F0E /* Icons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		4ABA5B4A29ED729A00B02F0E /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 		4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		4ABA5B4E29EEC09B00B02F0E /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
+		4ABA5B5029EEDCE300B02F0E /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4A23759E29ED4B0B00C8A52C /* ContentView.swift */,
 				4ABA5B4A29ED729A00B02F0E /* Shapes.swift */,
 				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
+				4ABA5B5029EEDCE300B02F0E /* Icons.swift */,
 				4ABA5B4E29EEC09B00B02F0E /* Gradients.swift */,
 				4ABA5B4829ED51DB00B02F0E /* TextView.swift */,
 				4A2375A029ED4B0C00C8A52C /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4ABA5B5129EEDCE300B02F0E /* Icons.swift in Sources */,
 				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
 				4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */,
