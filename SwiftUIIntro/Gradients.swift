@@ -30,8 +30,6 @@ struct Gradients: View {
         )
         // We can put as many color as we want because colors is array
             .frame(width: 350, height: 300)
-            
-        
    }
 }
 

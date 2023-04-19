@@ -17,6 +17,8 @@
 		4ABA5B4F29EEC09B00B02F0E /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4E29EEC09B00B02F0E /* Gradients.swift */; };
 		4ABA5B5129EEDCE300B02F0E /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B5029EEDCE300B02F0E /* Icons.swift */; };
 		4ABA5B5329EFC6B200B02F0E /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B5229EFC6B200B02F0E /* Images.swift */; };
+		4ABA5B5529EFD8CD00B02F0E /* Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B5429EFD8CD00B02F0E /* Frame.swift */; };
+		4ABA5B5729EFDD1300B02F0E /* BackgroundAndOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B5629EFDD1300B02F0E /* BackgroundAndOverlay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,8 @@
 		4ABA5B4E29EEC09B00B02F0E /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 		4ABA5B5029EEDCE300B02F0E /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 		4ABA5B5229EFC6B200B02F0E /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		4ABA5B5429EFD8CD00B02F0E /* Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame.swift; sourceTree = "<group>"; };
+		4ABA5B5629EFDD1300B02F0E /* BackgroundAndOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +70,9 @@
 				4A23759C29ED4B0B00C8A52C /* SwiftUIIntroApp.swift */,
 				4A23759E29ED4B0B00C8A52C /* ContentView.swift */,
 				4ABA5B4A29ED729A00B02F0E /* Shapes.swift */,
+				4ABA5B5429EFD8CD00B02F0E /* Frame.swift */,
 				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
+				4ABA5B5629EFDD1300B02F0E /* BackgroundAndOverlay.swift */,
 				4ABA5B5029EEDCE300B02F0E /* Icons.swift */,
 				4ABA5B5229EFC6B200B02F0E /* Images.swift */,
 				4ABA5B4E29EEC09B00B02F0E /* Gradients.swift */,
@@ -155,9 +161,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4ABA5B5529EFD8CD00B02F0E /* Frame.swift in Sources */,
 				4ABA5B5129EEDCE300B02F0E /* Icons.swift in Sources */,
 				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
+				4ABA5B5729EFDD1300B02F0E /* BackgroundAndOverlay.swift in Sources */,
 				4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */,
 				4A23759D29ED4B0B00C8A52C /* SwiftUIIntroApp.swift in Sources */,
 				4ABA5B5329EFC6B200B02F0E /* Images.swift in Sources */,
