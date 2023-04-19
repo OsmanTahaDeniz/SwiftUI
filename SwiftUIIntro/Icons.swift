@@ -18,7 +18,7 @@ struct Icons: View {
             //.font(.largeTitle)
             //.font(.system(size: 200))
             //.foregroundColor(Color.pink)
-            .frame(width: 200, height: 200)
+            .frame(width: 150, height: 150)
             .clipped() //fits the image
     }
 }
