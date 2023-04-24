@@ -51,6 +51,7 @@ struct Stacks: View {
                 Text("8")
                     .font(.title)
                     .foregroundColor(Color.white)
+                
             }
             Text("8")
                 .font(.title)

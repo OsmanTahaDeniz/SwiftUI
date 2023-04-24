@@ -23,6 +23,9 @@
 		4ABA5B5D29F11C0200B02F0E /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B5C29F11C0200B02F0E /* Padding.swift */; };
 		4ABA5B5F29F11E3F00B02F0E /* Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B5E29F11E3F00B02F0E /* Spacer.swift */; };
 		4ABA5B6129F65EBD00B02F0E /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B6029F65EBD00B02F0E /* Initializer.swift */; };
+		4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B6429F67BA000B02F0E /* ForEachView.swift */; };
+		4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8229F6A9B100B02F0E /* Scroll.swift */; };
+		4ABA5B8529F6C7B200B02F0E /* LazyGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +46,9 @@
 		4ABA5B5C29F11C0200B02F0E /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		4ABA5B5E29F11E3F00B02F0E /* Spacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacer.swift; sourceTree = "<group>"; };
 		4ABA5B6029F65EBD00B02F0E /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
+		4ABA5B6429F67BA000B02F0E /* ForEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachView.swift; sourceTree = "<group>"; };
+		4ABA5B8229F6A9B100B02F0E /* Scroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scroll.swift; sourceTree = "<group>"; };
+		4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGrid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,11 +85,14 @@
 				4A23759E29ED4B0B00C8A52C /* ContentView.swift */,
 				4ABA5B4A29ED729A00B02F0E /* Shapes.swift */,
 				4ABA5B5C29F11C0200B02F0E /* Padding.swift */,
+				4ABA5B6429F67BA000B02F0E /* ForEachView.swift */,
 				4ABA5B5429EFD8CD00B02F0E /* Frame.swift */,
+				4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */,
 				4ABA5B5829F01F0800B02F0E /* Stacks.swift */,
 				4ABA5B5E29F11E3F00B02F0E /* Spacer.swift */,
 				4ABA5B6029F65EBD00B02F0E /* Initializer.swift */,
 				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
+				4ABA5B8229F6A9B100B02F0E /* Scroll.swift */,
 				4ABA5B5629EFDD1300B02F0E /* BackgroundAndOverlay.swift */,
 				4ABA5B5029EEDCE300B02F0E /* Icons.swift */,
 				4ABA5B5229EFC6B200B02F0E /* Images.swift */,
@@ -177,8 +186,11 @@
 				4ABA5B5129EEDCE300B02F0E /* Icons.swift in Sources */,
 				4ABA5B5929F01F0800B02F0E /* Stacks.swift in Sources */,
 				4ABA5B5F29F11E3F00B02F0E /* Spacer.swift in Sources */,
+				4ABA5B8529F6C7B200B02F0E /* LazyGrid.swift in Sources */,
 				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
+				4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */,
+				4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */,
 				4ABA5B5729EFDD1300B02F0E /* BackgroundAndOverlay.swift in Sources */,
 				4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */,
 				4ABA5B6129F65EBD00B02F0E /* Initializer.swift in Sources */,
