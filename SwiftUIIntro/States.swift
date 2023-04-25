@@ -13,7 +13,6 @@ struct States: View {
     @State var title: String = "My Title"
     @State var count: Int = 0
     @State var titleFont: Font = .largeTitle
-    @State var spacing:
     
     
         var body: some View {
