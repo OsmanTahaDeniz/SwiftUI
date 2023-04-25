@@ -26,6 +26,7 @@
 		4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B6429F67BA000B02F0E /* ForEachView.swift */; };
 		4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8229F6A9B100B02F0E /* Scroll.swift */; };
 		4ABA5B8529F6C7B200B02F0E /* LazyGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */; };
+		4ABA5B8729F7B6D300B02F0E /* SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		4ABA5B6429F67BA000B02F0E /* ForEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachView.swift; sourceTree = "<group>"; };
 		4ABA5B8229F6A9B100B02F0E /* Scroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scroll.swift; sourceTree = "<group>"; };
 		4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGrid.swift; sourceTree = "<group>"; };
+		4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeArea.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				4ABA5B6429F67BA000B02F0E /* ForEachView.swift */,
 				4ABA5B5429EFD8CD00B02F0E /* Frame.swift */,
 				4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */,
+				4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */,
 				4ABA5B5829F01F0800B02F0E /* Stacks.swift */,
 				4ABA5B5E29F11E3F00B02F0E /* Spacer.swift */,
 				4ABA5B6029F65EBD00B02F0E /* Initializer.swift */,
@@ -189,6 +192,7 @@
 				4ABA5B8529F6C7B200B02F0E /* LazyGrid.swift in Sources */,
 				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
+				4ABA5B8729F7B6D300B02F0E /* SafeArea.swift in Sources */,
 				4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */,
 				4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */,
 				4ABA5B5729EFDD1300B02F0E /* BackgroundAndOverlay.swift in Sources */,
