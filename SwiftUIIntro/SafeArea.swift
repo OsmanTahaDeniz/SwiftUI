@@ -27,7 +27,7 @@ struct SafeArea: View {
         })
             .background(
             Color.red
-            .ignoresSafeArea(.all, edges: .bottom)
+            .ignoresSafeArea(.all)
         )
         
     }
