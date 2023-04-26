@@ -11,6 +11,8 @@
 		4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A23759E29ED4B0B00C8A52C /* ContentView.swift */; };
 		4A2375A129ED4B0C00C8A52C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A2375A029ED4B0C00C8A52C /* Assets.xcassets */; };
 		4A2375A429ED4B0C00C8A52C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A2375A329ED4B0C00C8A52C /* Preview Assets.xcassets */; };
+		4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */; };
+		4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */; };
 		4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4829ED51DB00B02F0E /* TextView.swift */; };
 		4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4A29ED729A00B02F0E /* Shapes.swift */; };
 		4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */; };
@@ -37,6 +39,8 @@
 		4A23759E29ED4B0B00C8A52C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4A2375A029ED4B0C00C8A52C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A2375A329ED4B0C00C8A52C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
+		4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViews.swift; sourceTree = "<group>"; };
 		4ABA5B4829ED51DB00B02F0E /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		4ABA5B4A29ED729A00B02F0E /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 		4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
@@ -95,11 +99,13 @@
 				4ABA5B5429EFD8CD00B02F0E /* Frame.swift */,
 				4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */,
 				4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */,
+				4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */,
 				4ABA5B5829F01F0800B02F0E /* Stacks.swift */,
 				4ABA5B8A29F805DF00B02F0E /* States.swift */,
 				4ABA5B5E29F11E3F00B02F0E /* Spacer.swift */,
 				4ABA5B6029F65EBD00B02F0E /* Initializer.swift */,
 				4ABA5B8829F7C71700B02F0E /* Buttons.swift */,
+				4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */,
 				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
 				4ABA5B8229F6A9B100B02F0E /* Scroll.swift */,
 				4ABA5B5629EFDD1300B02F0E /* BackgroundAndOverlay.swift */,
@@ -201,6 +207,7 @@
 				4ABA5B8729F7B6D300B02F0E /* SafeArea.swift in Sources */,
 				4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */,
 				4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */,
+				4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */,
 				4ABA5B5729EFDD1300B02F0E /* BackgroundAndOverlay.swift in Sources */,
 				4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */,
 				4ABA5B6129F65EBD00B02F0E /* Initializer.swift in Sources */,
@@ -209,6 +216,7 @@
 				4ABA5B8B29F805DF00B02F0E /* States.swift in Sources */,
 				4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */,
 				4ABA5B8929F7C71700B02F0E /* Buttons.swift in Sources */,
+				4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */,
 				4ABA5B4F29EEC09B00B02F0E /* Gradients.swift in Sources */,
 				4ABA5B5D29F11C0200B02F0E /* Padding.swift in Sources */,
 			);
