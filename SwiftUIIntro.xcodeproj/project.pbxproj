@@ -14,6 +14,7 @@
 		4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */; };
 		4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */; };
 		4A7DE5DD29F95F4900C0ABF8 /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */; };
+		4AA6DAD12A02F78D00DEC333 /* Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA6DAD02A02F78D00DEC333 /* Sheets.swift */; };
 		4AAF56A829FA54CC00821C0E /* ConditionalStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF56A729FA54CC00821C0E /* ConditionalStatements.swift */; };
 		4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4829ED51DB00B02F0E /* TextView.swift */; };
 		4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4A29ED729A00B02F0E /* Shapes.swift */; };
@@ -48,6 +49,7 @@
 		4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViews.swift; sourceTree = "<group>"; };
 		4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
+		4AA6DAD02A02F78D00DEC333 /* Sheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheets.swift; sourceTree = "<group>"; };
 		4AAF56A729FA54CC00821C0E /* ConditionalStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStatements.swift; sourceTree = "<group>"; };
 		4ABA5B4829ED51DB00B02F0E /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		4ABA5B4A29ED729A00B02F0E /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				4A23759E29ED4B0B00C8A52C /* ContentView.swift */,
 				4ABA5B4A29ED729A00B02F0E /* Shapes.swift */,
 				4ABA5B5C29F11C0200B02F0E /* Padding.swift */,
+				4AA6DAD02A02F78D00DEC333 /* Sheets.swift */,
 				4ABA5B6429F67BA000B02F0E /* ForEachView.swift */,
 				4ABA5B5429EFD8CD00B02F0E /* Frame.swift */,
 				4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */,
@@ -227,6 +230,7 @@
 				4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */,
 				4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */,
 				4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */,
+				4AA6DAD12A02F78D00DEC333 /* Sheets.swift in Sources */,
 				4AF55CD829FA9C9400BEB955 /* Spacing.swift in Sources */,
 				4ABA5B5729EFDD1300B02F0E /* BackgroundAndOverlay.swift in Sources */,
 				4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */,
