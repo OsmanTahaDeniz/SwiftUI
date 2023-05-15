@@ -12,6 +12,9 @@
 		4A2375A129ED4B0C00C8A52C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A2375A029ED4B0C00C8A52C /* Assets.xcassets */; };
 		4A2375A429ED4B0C00C8A52C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A2375A329ED4B0C00C8A52C /* Preview Assets.xcassets */; };
 		4A44569F2A0BD4A900BC81B9 /* ContextMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A44569E2A0BD4A900BC81B9 /* ContextMenu.swift */; };
+		4A4456A72A0CD72000BC81B9 /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4456A62A0CD72000BC81B9 /* TextFields.swift */; };
+		4A4456A92A0CFA9900BC81B9 /* TextEditors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4456A82A0CFA9900BC81B9 /* TextEditors.swift */; };
+		4A4456AB2A0D101600BC81B9 /* Toggles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4456AA2A0D101600BC81B9 /* Toggles.swift */; };
 		4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */; };
 		4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */; };
 		4A4DB4F42A08E4AC00F29D3D /* PopOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F32A08E4AC00F29D3D /* PopOver.swift */; };
@@ -19,6 +22,8 @@
 		4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */; };
 		4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */; };
 		4A7DE5DD29F95F4900C0ABF8 /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */; };
+		4AA59CAC2A12217600C73AEE /* Pickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA59CAB2A12217600C73AEE /* Pickers.swift */; };
+		4AA59CAE2A1253B200C73AEE /* PickerAndStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA59CAD2A1253B200C73AEE /* PickerAndStyles.swift */; };
 		4AA6DAD12A02F78D00DEC333 /* Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA6DAD02A02F78D00DEC333 /* Sheets.swift */; };
 		4AAF56A829FA54CC00821C0E /* ConditionalStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF56A729FA54CC00821C0E /* ConditionalStatements.swift */; };
 		4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B4829ED51DB00B02F0E /* TextView.swift */; };
@@ -52,6 +57,9 @@
 		4A2375A029ED4B0C00C8A52C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A2375A329ED4B0C00C8A52C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4A44569E2A0BD4A900BC81B9 /* ContextMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenu.swift; sourceTree = "<group>"; };
+		4A4456A62A0CD72000BC81B9 /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
+		4A4456A82A0CFA9900BC81B9 /* TextEditors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditors.swift; sourceTree = "<group>"; };
+		4A4456AA2A0D101600BC81B9 /* Toggles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toggles.swift; sourceTree = "<group>"; };
 		4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViews.swift; sourceTree = "<group>"; };
 		4A4DB4F32A08E4AC00F29D3D /* PopOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOver.swift; sourceTree = "<group>"; };
@@ -59,6 +67,8 @@
 		4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListEdit.swift; sourceTree = "<group>"; };
 		4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
+		4AA59CAB2A12217600C73AEE /* Pickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pickers.swift; sourceTree = "<group>"; };
+		4AA59CAD2A1253B200C73AEE /* PickerAndStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerAndStyles.swift; sourceTree = "<group>"; };
 		4AA6DAD02A02F78D00DEC333 /* Sheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheets.swift; sourceTree = "<group>"; };
 		4AAF56A729FA54CC00821C0E /* ConditionalStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStatements.swift; sourceTree = "<group>"; };
 		4ABA5B4829ED51DB00B02F0E /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
@@ -123,6 +133,11 @@
 				4ABA5B6429F67BA000B02F0E /* ForEachView.swift */,
 				4ABA5B5429EFD8CD00B02F0E /* Frame.swift */,
 				4ABA5B8429F6C7B200B02F0E /* LazyGrid.swift */,
+				4A4456A62A0CD72000BC81B9 /* TextFields.swift */,
+				4AA59CAB2A12217600C73AEE /* Pickers.swift */,
+				4AA59CAD2A1253B200C73AEE /* PickerAndStyles.swift */,
+				4A4456AA2A0D101600BC81B9 /* Toggles.swift */,
+				4A4456A82A0CFA9900BC81B9 /* TextEditors.swift */,
 				4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */,
 				4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */,
 				4AF55CD729FA9C9400BEB955 /* Spacing.swift */,
@@ -238,6 +253,7 @@
 				4AF55CDA29FAB06900BEB955 /* AnimationCurves.swift in Sources */,
 				4ABA5B5129EEDCE300B02F0E /* Icons.swift in Sources */,
 				4ABA5B5929F01F0800B02F0E /* Stacks.swift in Sources */,
+				4A4456A72A0CD72000BC81B9 /* TextFields.swift in Sources */,
 				4ABA5B8529F6C7B200B02F0E /* LazyGrid.swift in Sources */,
 				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
@@ -247,14 +263,17 @@
 				4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */,
 				4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */,
 				4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */,
+				4AA59CAC2A12217600C73AEE /* Pickers.swift in Sources */,
 				4AA6DAD12A02F78D00DEC333 /* Sheets.swift in Sources */,
 				4AF55CD829FA9C9400BEB955 /* Spacing.swift in Sources */,
 				4ABA5B5729EFDD1300B02F0E /* BackgroundAndOverlay.swift in Sources */,
 				4A23759F29ED4B0B00C8A52C /* ContentView.swift in Sources */,
+				4A4456A92A0CFA9900BC81B9 /* TextEditors.swift in Sources */,
 				4A44569F2A0BD4A900BC81B9 /* ContextMenu.swift in Sources */,
 				4ABA5B6129F65EBD00B02F0E /* Initializer.swift in Sources */,
 				4A23759D29ED4B0B00C8A52C /* SwiftUIIntroApp.swift in Sources */,
 				4ABA5B5329EFC6B200B02F0E /* Images.swift in Sources */,
+				4A4456AB2A0D101600BC81B9 /* Toggles.swift in Sources */,
 				4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */,
 				4ABA5B8B29F805DF00B02F0E /* States.swift in Sources */,
 				4AAF56A829FA54CC00821C0E /* ConditionalStatements.swift in Sources */,
@@ -263,6 +282,7 @@
 				4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */,
 				4A4DB4F82A09335F00F29D3D /* Navigation.swift in Sources */,
 				4ABA5B8929F7C71700B02F0E /* Buttons.swift in Sources */,
+				4AA59CAE2A1253B200C73AEE /* PickerAndStyles.swift in Sources */,
 				4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */,
 				4ABA5B4F29EEC09B00B02F0E /* Gradients.swift in Sources */,
 				4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */,
