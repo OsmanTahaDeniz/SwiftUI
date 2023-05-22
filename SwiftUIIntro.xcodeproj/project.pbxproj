@@ -22,6 +22,8 @@
 		4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */; };
 		4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */; };
 		4A6BD2DA2A136CD000342D5C /* ColorPickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2D92A136CD000342D5C /* ColorPickers.swift */; };
+		4A6BD2DC2A13BEEB00342D5C /* ActionSheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */; };
+		4A6BD2DE2A16151F00342D5C /* DatePickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2DD2A16151F00342D5C /* DatePickers.swift */; };
 		4A7DE5DD29F95F4900C0ABF8 /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */; };
 		4AA59CAC2A12217600C73AEE /* Pickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA59CAB2A12217600C73AEE /* Pickers.swift */; };
 		4AA59CAE2A1253B200C73AEE /* PickerAndStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA59CAD2A1253B200C73AEE /* PickerAndStyles.swift */; };
@@ -68,6 +70,8 @@
 		4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListEdit.swift; sourceTree = "<group>"; };
 		4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		4A6BD2D92A136CD000342D5C /* ColorPickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickers.swift; sourceTree = "<group>"; };
+		4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheets.swift; sourceTree = "<group>"; };
+		4A6BD2DD2A16151F00342D5C /* DatePickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickers.swift; sourceTree = "<group>"; };
 		4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
 		4AA59CAB2A12217600C73AEE /* Pickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pickers.swift; sourceTree = "<group>"; };
 		4AA59CAD2A1253B200C73AEE /* PickerAndStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerAndStyles.swift; sourceTree = "<group>"; };
@@ -145,9 +149,11 @@
 				4AF55CD729FA9C9400BEB955 /* Spacing.swift */,
 				4ABA5B5829F01F0800B02F0E /* Stacks.swift */,
 				4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */,
+				4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */,
 				4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */,
 				4ABA5B8A29F805DF00B02F0E /* States.swift */,
 				4A44569E2A0BD4A900BC81B9 /* ContextMenu.swift */,
+				4A6BD2DD2A16151F00342D5C /* DatePickers.swift */,
 				4A4DB4F32A08E4AC00F29D3D /* PopOver.swift */,
 				4A4DB4F72A09335F00F29D3D /* Navigation.swift */,
 				4A6BD2D92A136CD000342D5C /* ColorPickers.swift */,
@@ -261,6 +267,7 @@
 				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
 				4A7DE5DD29F95F4900C0ABF8 /* BindingView.swift in Sources */,
+				4A6BD2DC2A13BEEB00342D5C /* ActionSheets.swift in Sources */,
 				4ABA5B8729F7B6D300B02F0E /* SafeArea.swift in Sources */,
 				4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */,
 				4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */,
@@ -285,6 +292,7 @@
 				4AF55CD629FA79B600BEB955 /* Animations.swift in Sources */,
 				4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */,
 				4A4DB4F82A09335F00F29D3D /* Navigation.swift in Sources */,
+				4A6BD2DE2A16151F00342D5C /* DatePickers.swift in Sources */,
 				4ABA5B8929F7C71700B02F0E /* Buttons.swift in Sources */,
 				4AA59CAE2A1253B200C73AEE /* PickerAndStyles.swift in Sources */,
 				4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */,
