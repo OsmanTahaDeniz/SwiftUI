@@ -46,6 +46,7 @@
 		4ABA5B8729F7B6D300B02F0E /* SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */; };
 		4ABA5B8929F7C71700B02F0E /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8829F7C71700B02F0E /* Buttons.swift */; };
 		4ABA5B8B29F805DF00B02F0E /* States.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8A29F805DF00B02F0E /* States.swift */; };
+		4AC8678A2A21FC1B00ACADD2 /* DarkMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC867892A21FC1B00ACADD2 /* DarkMode.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
 		4AEDCBF32A1BA687001FE6C3 /* Steppers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */; };
 		4AEDCBF52A1CE557001FE6C3 /* Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */; };
@@ -97,6 +98,7 @@
 		4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeArea.swift; sourceTree = "<group>"; };
 		4ABA5B8829F7C71700B02F0E /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		4ABA5B8A29F805DF00B02F0E /* States.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = States.swift; sourceTree = "<group>"; };
+		4AC867892A21FC1B00ACADD2 /* DarkMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkMode.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Steppers.swift; sourceTree = "<group>"; };
 		4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sliders.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 				4A4456A82A0CFA9900BC81B9 /* TextEditors.swift */,
 				4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */,
 				4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */,
+				4AC867892A21FC1B00ACADD2 /* DarkMode.swift */,
 				4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */,
 				4AF55CD729FA9C9400BEB955 /* Spacing.swift */,
 				4ABA5B5829F01F0800B02F0E /* Stacks.swift */,
@@ -276,6 +279,7 @@
 				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
 				4A7DE5DD29F95F4900C0ABF8 /* BindingView.swift in Sources */,
+				4AC8678A2A21FC1B00ACADD2 /* DarkMode.swift in Sources */,
 				4A6BD2DC2A13BEEB00342D5C /* ActionSheets.swift in Sources */,
 				4ABA5B8729F7B6D300B02F0E /* SafeArea.swift in Sources */,
 				4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */,
