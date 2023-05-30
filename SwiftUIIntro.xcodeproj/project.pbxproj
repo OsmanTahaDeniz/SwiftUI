@@ -47,6 +47,7 @@
 		4ABA5B8929F7C71700B02F0E /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8829F7C71700B02F0E /* Buttons.swift */; };
 		4ABA5B8B29F805DF00B02F0E /* States.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8A29F805DF00B02F0E /* States.swift */; };
 		4AC8678A2A21FC1B00ACADD2 /* DarkMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC867892A21FC1B00ACADD2 /* DarkMode.swift */; };
+		4AC8678C2A24EA0B00ACADD2 /* Documentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
 		4AEDCBF32A1BA687001FE6C3 /* Steppers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */; };
 		4AEDCBF52A1CE557001FE6C3 /* Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */; };
@@ -99,6 +100,7 @@
 		4ABA5B8829F7C71700B02F0E /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		4ABA5B8A29F805DF00B02F0E /* States.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = States.swift; sourceTree = "<group>"; };
 		4AC867892A21FC1B00ACADD2 /* DarkMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkMode.swift; sourceTree = "<group>"; };
+		4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Documentation.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Steppers.swift; sourceTree = "<group>"; };
 		4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sliders.swift; sourceTree = "<group>"; };
@@ -179,6 +181,7 @@
 				4AF55CD329FA730B00BEB955 /* TernaryOperators.swift */,
 				4AF55CD529FA79B600BEB955 /* Animations.swift */,
 				4AE4813E29FC02C300D41F89 /* Transitions.swift */,
+				4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */,
 				4ABA5B8229F6A9B100B02F0E /* Scroll.swift */,
 				4ABA5B5629EFDD1300B02F0E /* BackgroundAndOverlay.swift */,
 				4ABA5B5029EEDCE300B02F0E /* Icons.swift */,
@@ -314,6 +317,7 @@
 				4ABA5B4F29EEC09B00B02F0E /* Gradients.swift in Sources */,
 				4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */,
 				4AEDCBF52A1CE557001FE6C3 /* Sliders.swift in Sources */,
+				4AC8678C2A24EA0B00ACADD2 /* Documentation.swift in Sources */,
 				4ABA5B5D29F11C0200B02F0E /* Padding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
