@@ -17,6 +17,7 @@
 		4A4456AB2A0D101600BC81B9 /* Toggles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4456AA2A0D101600BC81B9 /* Toggles.swift */; };
 		4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */; };
 		4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */; };
+		4A4C9B312A2A2ABC0074212D /* OnAppearOnDisappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C9B302A2A2ABC0074212D /* OnAppearOnDisappear.swift */; };
 		4A4DB4F42A08E4AC00F29D3D /* PopOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F32A08E4AC00F29D3D /* PopOver.swift */; };
 		4A4DB4F82A09335F00F29D3D /* Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F72A09335F00F29D3D /* Navigation.swift */; };
 		4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */; };
@@ -70,6 +71,7 @@
 		4A4456AA2A0D101600BC81B9 /* Toggles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toggles.swift; sourceTree = "<group>"; };
 		4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViews.swift; sourceTree = "<group>"; };
+		4A4C9B302A2A2ABC0074212D /* OnAppearOnDisappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearOnDisappear.swift; sourceTree = "<group>"; };
 		4A4DB4F32A08E4AC00F29D3D /* PopOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOver.swift; sourceTree = "<group>"; };
 		4A4DB4F72A09335F00F29D3D /* Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigation.swift; sourceTree = "<group>"; };
 		4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListEdit.swift; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				4AEDCBF62A1E53E5001FE6C3 /* TabViews.swift */,
 				4ABA5B6029F65EBD00B02F0E /* Initializer.swift */,
 				4AF55CD929FAB06900BEB955 /* AnimationCurves.swift */,
+				4A4C9B302A2A2ABC0074212D /* OnAppearOnDisappear.swift */,
 				4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */,
 				4ABA5B8829F7C71700B02F0E /* Buttons.swift */,
 				4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */,
@@ -288,6 +291,7 @@
 				4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */,
 				4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */,
 				4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */,
+				4A4C9B312A2A2ABC0074212D /* OnAppearOnDisappear.swift in Sources */,
 				4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */,
 				4AA59CAC2A12217600C73AEE /* Pickers.swift in Sources */,
 				4AA6DAD12A02F78D00DEC333 /* Sheets.swift in Sources */,
