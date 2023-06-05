@@ -18,6 +18,7 @@
 		4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */; };
 		4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */; };
 		4A4C9B312A2A2ABC0074212D /* OnAppearOnDisappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C9B302A2A2ABC0074212D /* OnAppearOnDisappear.swift */; };
+		4A4C9B332A2A35100074212D /* ifLetGuard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C9B322A2A35100074212D /* ifLetGuard.swift */; };
 		4A4DB4F42A08E4AC00F29D3D /* PopOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F32A08E4AC00F29D3D /* PopOver.swift */; };
 		4A4DB4F82A09335F00F29D3D /* Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F72A09335F00F29D3D /* Navigation.swift */; };
 		4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */; };
@@ -50,6 +51,7 @@
 		4AC8678A2A21FC1B00ACADD2 /* DarkMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC867892A21FC1B00ACADD2 /* DarkMode.swift */; };
 		4AC8678C2A24EA0B00ACADD2 /* Documentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
+		4AE6B5CA2A2E20D600F2B0EF /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */; };
 		4AEDCBF32A1BA687001FE6C3 /* Steppers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */; };
 		4AEDCBF52A1CE557001FE6C3 /* Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */; };
 		4AEDCBF72A1E53E5001FE6C3 /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF62A1E53E5001FE6C3 /* TabViews.swift */; };
@@ -72,6 +74,7 @@
 		4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViews.swift; sourceTree = "<group>"; };
 		4A4C9B302A2A2ABC0074212D /* OnAppearOnDisappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearOnDisappear.swift; sourceTree = "<group>"; };
+		4A4C9B322A2A35100074212D /* ifLetGuard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ifLetGuard.swift; sourceTree = "<group>"; };
 		4A4DB4F32A08E4AC00F29D3D /* PopOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOver.swift; sourceTree = "<group>"; };
 		4A4DB4F72A09335F00F29D3D /* Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigation.swift; sourceTree = "<group>"; };
 		4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListEdit.swift; sourceTree = "<group>"; };
@@ -104,6 +107,7 @@
 		4AC867892A21FC1B00ACADD2 /* DarkMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkMode.swift; sourceTree = "<group>"; };
 		4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Documentation.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
+		4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
 		4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Steppers.swift; sourceTree = "<group>"; };
 		4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sliders.swift; sourceTree = "<group>"; };
 		4AEDCBF62A1E53E5001FE6C3 /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
@@ -163,6 +167,7 @@
 				4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */,
 				4AF55CD729FA9C9400BEB955 /* Spacing.swift */,
 				4ABA5B5829F01F0800B02F0E /* Stacks.swift */,
+				4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */,
 				4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */,
 				4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */,
 				4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */,
@@ -174,6 +179,7 @@
 				4A6BD2D92A136CD000342D5C /* ColorPickers.swift */,
 				4AEDCBF62A1E53E5001FE6C3 /* TabViews.swift */,
 				4ABA5B6029F65EBD00B02F0E /* Initializer.swift */,
+				4A4C9B322A2A35100074212D /* ifLetGuard.swift */,
 				4AF55CD929FAB06900BEB955 /* AnimationCurves.swift */,
 				4A4C9B302A2A2ABC0074212D /* OnAppearOnDisappear.swift */,
 				4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */,
@@ -302,6 +308,7 @@
 				4A44569F2A0BD4A900BC81B9 /* ContextMenu.swift in Sources */,
 				4ABA5B6129F65EBD00B02F0E /* Initializer.swift in Sources */,
 				4A23759D29ED4B0B00C8A52C /* SwiftUIIntroApp.swift in Sources */,
+				4AE6B5CA2A2E20D600F2B0EF /* TapGesture.swift in Sources */,
 				4ABA5B5329EFC6B200B02F0E /* Images.swift in Sources */,
 				4AEDCBF72A1E53E5001FE6C3 /* TabViews.swift in Sources */,
 				4A4456AB2A0D101600BC81B9 /* Toggles.swift in Sources */,
@@ -322,6 +329,7 @@
 				4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */,
 				4AEDCBF52A1CE557001FE6C3 /* Sliders.swift in Sources */,
 				4AC8678C2A24EA0B00ACADD2 /* Documentation.swift in Sources */,
+				4A4C9B332A2A35100074212D /* ifLetGuard.swift in Sources */,
 				4ABA5B5D29F11C0200B02F0E /* Padding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
