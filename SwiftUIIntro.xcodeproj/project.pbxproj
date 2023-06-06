@@ -52,6 +52,7 @@
 		4AC8678C2A24EA0B00ACADD2 /* Documentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
 		4AE6B5CA2A2E20D600F2B0EF /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */; };
+		4AE6B5CC2A2E297B00F2B0EF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5CB2A2E297B00F2B0EF /* Models.swift */; };
 		4AEDCBF32A1BA687001FE6C3 /* Steppers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */; };
 		4AEDCBF52A1CE557001FE6C3 /* Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */; };
 		4AEDCBF72A1E53E5001FE6C3 /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEDCBF62A1E53E5001FE6C3 /* TabViews.swift */; };
@@ -108,6 +109,7 @@
 		4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Documentation.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
+		4AE6B5CB2A2E297B00F2B0EF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Steppers.swift; sourceTree = "<group>"; };
 		4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sliders.swift; sourceTree = "<group>"; };
 		4AEDCBF62A1E53E5001FE6C3 /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 				4ABA5B5829F01F0800B02F0E /* Stacks.swift */,
 				4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */,
 				4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */,
+				4AE6B5CB2A2E297B00F2B0EF /* Models.swift */,
 				4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */,
 				4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */,
 				4ABA5B8A29F805DF00B02F0E /* States.swift */,
@@ -299,6 +302,7 @@
 				4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */,
 				4A4C9B312A2A2ABC0074212D /* OnAppearOnDisappear.swift in Sources */,
 				4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */,
+				4AE6B5CC2A2E297B00F2B0EF /* Models.swift in Sources */,
 				4AA59CAC2A12217600C73AEE /* Pickers.swift in Sources */,
 				4AA6DAD12A02F78D00DEC333 /* Sheets.swift in Sources */,
 				4AF55CD829FA9C9400BEB955 /* Spacing.swift in Sources */,
