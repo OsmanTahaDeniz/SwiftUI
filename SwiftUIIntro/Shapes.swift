@@ -22,6 +22,7 @@ struct Shapes: View {
            //.trim(from: 0.5, to:1)
            // .stroke(Color.green,lineWidth: 20)
             .frame(width: 250, height: 100)
+
         
     }
 }
