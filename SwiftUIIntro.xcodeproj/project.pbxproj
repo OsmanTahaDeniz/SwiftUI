@@ -50,6 +50,8 @@
 		4ABA5B8B29F805DF00B02F0E /* States.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABA5B8A29F805DF00B02F0E /* States.swift */; };
 		4AC8678A2A21FC1B00ACADD2 /* DarkMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC867892A21FC1B00ACADD2 /* DarkMode.swift */; };
 		4AC8678C2A24EA0B00ACADD2 /* Documentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */; };
+		4AD237CF2A39F98F0078307B /* NavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237CE2A39F98F0078307B /* NavigationStack.swift */; };
+		4AD237D12A3AF8F70078307B /* EnvironmentObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D02A3AF8F70078307B /* EnvironmentObjects.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
 		4AE6B5CA2A2E20D600F2B0EF /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */; };
 		4AE6B5CC2A2E297B00F2B0EF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5CB2A2E297B00F2B0EF /* Models.swift */; };
@@ -108,6 +110,8 @@
 		4ABA5B8A29F805DF00B02F0E /* States.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = States.swift; sourceTree = "<group>"; };
 		4AC867892A21FC1B00ACADD2 /* DarkMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkMode.swift; sourceTree = "<group>"; };
 		4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Documentation.swift; sourceTree = "<group>"; };
+		4AD237CE2A39F98F0078307B /* NavigationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStack.swift; sourceTree = "<group>"; };
+		4AD237D02A3AF8F70078307B /* EnvironmentObjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjects.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
 		4AE6B5CB2A2E297B00F2B0EF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
@@ -165,9 +169,11 @@
 				4A4456AA2A0D101600BC81B9 /* Toggles.swift */,
 				4AEDCBF22A1BA687001FE6C3 /* Steppers.swift */,
 				4A4456A82A0CFA9900BC81B9 /* TextEditors.swift */,
+				4AD237D02A3AF8F70078307B /* EnvironmentObjects.swift */,
 				4AEDCBF42A1CE557001FE6C3 /* Sliders.swift */,
 				4ABA5B8629F7B6D300B02F0E /* SafeArea.swift */,
 				4AC867892A21FC1B00ACADD2 /* DarkMode.swift */,
+				4AD237CE2A39F98F0078307B /* NavigationStack.swift */,
 				4A475B7929F904F0001C7ECC /* ExtractedFunctions.swift */,
 				4AF55CD729FA9C9400BEB955 /* Spacing.swift */,
 				4ABA5B5829F01F0800B02F0E /* Stacks.swift */,
@@ -323,6 +329,7 @@
 				4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */,
 				4ABA5B8B29F805DF00B02F0E /* States.swift in Sources */,
 				4AAF56A829FA54CC00821C0E /* ConditionalStatements.swift in Sources */,
+				4AD237D12A3AF8F70078307B /* EnvironmentObjects.swift in Sources */,
 				4A6BD2DA2A136CD000342D5C /* ColorPickers.swift in Sources */,
 				4AF55CD429FA730B00BEB955 /* TernaryOperators.swift in Sources */,
 				4AEDCBF32A1BA687001FE6C3 /* Steppers.swift in Sources */,
@@ -338,6 +345,7 @@
 				4AEDCBF52A1CE557001FE6C3 /* Sliders.swift in Sources */,
 				4AC8678C2A24EA0B00ACADD2 /* Documentation.swift in Sources */,
 				4A4C9B332A2A35100074212D /* ifLetGuard.swift in Sources */,
+				4AD237CF2A39F98F0078307B /* NavigationStack.swift in Sources */,
 				4ABA5B5D29F11C0200B02F0E /* Padding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
