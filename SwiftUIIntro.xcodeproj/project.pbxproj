@@ -55,6 +55,7 @@
 		4AD237D32A3B48E10078307B /* AppStorages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D22A3B48E10078307B /* AppStorages.swift */; };
 		4AD237D72A3C52E30078307B /* NavigationStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D62A3C52E30078307B /* NavigationStacks.swift */; };
 		4AD237D92A419F4B0078307B /* AsyncImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D82A419F4B0078307B /* AsyncImages.swift */; };
+		4AD237DD2A41CFD90078307B /* BackgroundMaterials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237DC2A41CFD90078307B /* BackgroundMaterials.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
 		4AE6B5CA2A2E20D600F2B0EF /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */; };
 		4AE6B5CC2A2E297B00F2B0EF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5CB2A2E297B00F2B0EF /* Models.swift */; };
@@ -118,6 +119,7 @@
 		4AD237D22A3B48E10078307B /* AppStorages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorages.swift; sourceTree = "<group>"; };
 		4AD237D62A3C52E30078307B /* NavigationStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStacks.swift; sourceTree = "<group>"; };
 		4AD237D82A419F4B0078307B /* AsyncImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImages.swift; sourceTree = "<group>"; };
+		4AD237DC2A41CFD90078307B /* BackgroundMaterials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterials.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
 		4AE6B5CB2A2E297B00F2B0EF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
@@ -211,6 +213,7 @@
 				4AF55CD329FA730B00BEB955 /* TernaryOperators.swift */,
 				4AF55CD529FA79B600BEB955 /* Animations.swift */,
 				4AE4813E29FC02C300D41F89 /* Transitions.swift */,
+				4AD237DC2A41CFD90078307B /* BackgroundMaterials.swift */,
 				4AC8678B2A24EA0B00ACADD2 /* Documentation.swift */,
 				4ABA5B8229F6A9B100B02F0E /* Scroll.swift */,
 				4ABA5B5629EFDD1300B02F0E /* BackgroundAndOverlay.swift */,
@@ -350,6 +353,7 @@
 				4A6BD2DE2A16151F00342D5C /* DatePickers.swift in Sources */,
 				4ABA5B8929F7C71700B02F0E /* Buttons.swift in Sources */,
 				4AA59CAE2A1253B200C73AEE /* PickerAndStyles.swift in Sources */,
+				4AD237DD2A41CFD90078307B /* BackgroundMaterials.swift in Sources */,
 				4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */,
 				4ABA5B4F29EEC09B00B02F0E /* Gradients.swift in Sources */,
 				4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */,
