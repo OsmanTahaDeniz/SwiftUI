@@ -53,6 +53,8 @@
 		4AD237CF2A39F98F0078307B /* NavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237CE2A39F98F0078307B /* NavigationStack.swift */; };
 		4AD237D12A3AF8F70078307B /* EnvironmentObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D02A3AF8F70078307B /* EnvironmentObjects.swift */; };
 		4AD237D32A3B48E10078307B /* AppStorages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D22A3B48E10078307B /* AppStorages.swift */; };
+		4AD237D72A3C52E30078307B /* NavigationStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D62A3C52E30078307B /* NavigationStacks.swift */; };
+		4AD237D92A419F4B0078307B /* AsyncImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D82A419F4B0078307B /* AsyncImages.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
 		4AE6B5CA2A2E20D600F2B0EF /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */; };
 		4AE6B5CC2A2E297B00F2B0EF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5CB2A2E297B00F2B0EF /* Models.swift */; };
@@ -114,6 +116,8 @@
 		4AD237CE2A39F98F0078307B /* NavigationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStack.swift; sourceTree = "<group>"; };
 		4AD237D02A3AF8F70078307B /* EnvironmentObjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjects.swift; sourceTree = "<group>"; };
 		4AD237D22A3B48E10078307B /* AppStorages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorages.swift; sourceTree = "<group>"; };
+		4AD237D62A3C52E30078307B /* NavigationStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStacks.swift; sourceTree = "<group>"; };
+		4AD237D82A419F4B0078307B /* AsyncImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImages.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
 		4AE6B5CB2A2E297B00F2B0EF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
@@ -186,6 +190,8 @@
 				4AE6B5CB2A2E297B00F2B0EF /* Models.swift */,
 				4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */,
 				4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */,
+				4AD237D62A3C52E30078307B /* NavigationStacks.swift */,
+				4AD237D82A419F4B0078307B /* AsyncImages.swift */,
 				4ABA5B8A29F805DF00B02F0E /* States.swift */,
 				4A44569E2A0BD4A900BC81B9 /* ContextMenu.swift */,
 				4A6BD2DD2A16151F00342D5C /* DatePickers.swift */,
@@ -338,6 +344,7 @@
 				4AF55CD429FA730B00BEB955 /* TernaryOperators.swift in Sources */,
 				4AEDCBF32A1BA687001FE6C3 /* Steppers.swift in Sources */,
 				4AF55CD629FA79B600BEB955 /* Animations.swift in Sources */,
+				4AD237D92A419F4B0078307B /* AsyncImages.swift in Sources */,
 				4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */,
 				4A4DB4F82A09335F00F29D3D /* Navigation.swift in Sources */,
 				4A6BD2DE2A16151F00342D5C /* DatePickers.swift in Sources */,
@@ -346,6 +353,7 @@
 				4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */,
 				4ABA5B4F29EEC09B00B02F0E /* Gradients.swift in Sources */,
 				4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */,
+				4AD237D72A3C52E30078307B /* NavigationStacks.swift in Sources */,
 				4AEDCBF52A1CE557001FE6C3 /* Sliders.swift in Sources */,
 				4AC8678C2A24EA0B00ACADD2 /* Documentation.swift in Sources */,
 				4A4C9B332A2A35100074212D /* ifLetGuard.swift in Sources */,
