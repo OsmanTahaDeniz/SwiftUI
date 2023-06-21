@@ -58,6 +58,7 @@
 		4AD237DD2A41CFD90078307B /* BackgroundMaterials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237DC2A41CFD90078307B /* BackgroundMaterials.swift */; };
 		4AD237DF2A41EFE70078307B /* TextSelections.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237DE2A41EFE70078307B /* TextSelections.swift */; };
 		4AD237E12A42D4030078307B /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237E02A42D4030078307B /* ButtonStyles.swift */; };
+		4AD237E32A4330660078307B /* ListSwipeActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237E22A4330660078307B /* ListSwipeActions.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
 		4AE6B5CA2A2E20D600F2B0EF /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */; };
 		4AE6B5CC2A2E297B00F2B0EF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5CB2A2E297B00F2B0EF /* Models.swift */; };
@@ -124,6 +125,7 @@
 		4AD237DC2A41CFD90078307B /* BackgroundMaterials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterials.swift; sourceTree = "<group>"; };
 		4AD237DE2A41EFE70078307B /* TextSelections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelections.swift; sourceTree = "<group>"; };
 		4AD237E02A42D4030078307B /* ButtonStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
+		4AD237E22A4330660078307B /* ListSwipeActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActions.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
 		4AE6B5CB2A2E297B00F2B0EF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
@@ -214,6 +216,7 @@
 				4AD237DE2A41EFE70078307B /* TextSelections.swift */,
 				4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */,
 				4AD237E02A42D4030078307B /* ButtonStyles.swift */,
+				4AD237E22A4330660078307B /* ListSwipeActions.swift */,
 				4AAF56A729FA54CC00821C0E /* ConditionalStatements.swift */,
 				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
 				4AF55CD329FA730B00BEB955 /* TernaryOperators.swift */,
@@ -357,6 +360,7 @@
 				4AF55CD629FA79B600BEB955 /* Animations.swift in Sources */,
 				4AD237D92A419F4B0078307B /* AsyncImages.swift in Sources */,
 				4ABA5B4B29ED729A00B02F0E /* Shapes.swift in Sources */,
+				4AD237E32A4330660078307B /* ListSwipeActions.swift in Sources */,
 				4A4DB4F82A09335F00F29D3D /* Navigation.swift in Sources */,
 				4A6BD2DE2A16151F00342D5C /* DatePickers.swift in Sources */,
 				4ABA5B8929F7C71700B02F0E /* Buttons.swift in Sources */,
