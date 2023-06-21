@@ -56,6 +56,8 @@
 		4AD237D72A3C52E30078307B /* NavigationStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D62A3C52E30078307B /* NavigationStacks.swift */; };
 		4AD237D92A419F4B0078307B /* AsyncImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237D82A419F4B0078307B /* AsyncImages.swift */; };
 		4AD237DD2A41CFD90078307B /* BackgroundMaterials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237DC2A41CFD90078307B /* BackgroundMaterials.swift */; };
+		4AD237DF2A41EFE70078307B /* TextSelections.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237DE2A41EFE70078307B /* TextSelections.swift */; };
+		4AD237E12A42D4030078307B /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD237E02A42D4030078307B /* ButtonStyles.swift */; };
 		4AE4813F29FC02C300D41F89 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4813E29FC02C300D41F89 /* Transitions.swift */; };
 		4AE6B5CA2A2E20D600F2B0EF /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */; };
 		4AE6B5CC2A2E297B00F2B0EF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE6B5CB2A2E297B00F2B0EF /* Models.swift */; };
@@ -120,6 +122,8 @@
 		4AD237D62A3C52E30078307B /* NavigationStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStacks.swift; sourceTree = "<group>"; };
 		4AD237D82A419F4B0078307B /* AsyncImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImages.swift; sourceTree = "<group>"; };
 		4AD237DC2A41CFD90078307B /* BackgroundMaterials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterials.swift; sourceTree = "<group>"; };
+		4AD237DE2A41EFE70078307B /* TextSelections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelections.swift; sourceTree = "<group>"; };
+		4AD237E02A42D4030078307B /* ButtonStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
 		4AE4813E29FC02C300D41F89 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		4AE6B5C92A2E20D600F2B0EF /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
 		4AE6B5CB2A2E297B00F2B0EF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
@@ -207,7 +211,9 @@
 				4A4C9B302A2A2ABC0074212D /* OnAppearOnDisappear.swift */,
 				4A7DE5DC29F95F4900C0ABF8 /* BindingView.swift */,
 				4ABA5B8829F7C71700B02F0E /* Buttons.swift */,
+				4AD237DE2A41EFE70078307B /* TextSelections.swift */,
 				4A475B7B29F90FDB001C7ECC /* ExtractSubViews.swift */,
+				4AD237E02A42D4030078307B /* ButtonStyles.swift */,
 				4AAF56A729FA54CC00821C0E /* ConditionalStatements.swift */,
 				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
 				4AF55CD329FA730B00BEB955 /* TernaryOperators.swift */,
@@ -318,10 +324,12 @@
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
 				4A7DE5DD29F95F4900C0ABF8 /* BindingView.swift in Sources */,
 				4AC8678A2A21FC1B00ACADD2 /* DarkMode.swift in Sources */,
+				4AD237E12A42D4030078307B /* ButtonStyles.swift in Sources */,
 				4A6BD2DC2A13BEEB00342D5C /* ActionSheets.swift in Sources */,
 				4ABA5B8729F7B6D300B02F0E /* SafeArea.swift in Sources */,
 				4ABA5B8329F6A9B100B02F0E /* Scroll.swift in Sources */,
 				4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */,
+				4AD237DF2A41EFE70078307B /* TextSelections.swift in Sources */,
 				4ABA5B6529F67BA000B02F0E /* ForEachView.swift in Sources */,
 				4A4C9B312A2A2ABC0074212D /* OnAppearOnDisappear.swift in Sources */,
 				4A475B7A29F904F0001C7ECC /* ExtractedFunctions.swift in Sources */,
