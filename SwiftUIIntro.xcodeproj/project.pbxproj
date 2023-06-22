@@ -23,6 +23,7 @@
 		4A4DB4F82A09335F00F29D3D /* Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F72A09335F00F29D3D /* Navigation.swift */; };
 		4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */; };
 		4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */; };
+		4A58A6A92A443E9100F25BB4 /* Badges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A58A6A82A443E9100F25BB4 /* Badges.swift */; };
 		4A6BD2DA2A136CD000342D5C /* ColorPickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2D92A136CD000342D5C /* ColorPickers.swift */; };
 		4A6BD2DC2A13BEEB00342D5C /* ActionSheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */; };
 		4A6BD2DE2A16151F00342D5C /* DatePickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2DD2A16151F00342D5C /* DatePickers.swift */; };
@@ -90,6 +91,7 @@
 		4A4DB4F72A09335F00F29D3D /* Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigation.swift; sourceTree = "<group>"; };
 		4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListEdit.swift; sourceTree = "<group>"; };
 		4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
+		4A58A6A82A443E9100F25BB4 /* Badges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badges.swift; sourceTree = "<group>"; };
 		4A6BD2D92A136CD000342D5C /* ColorPickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickers.swift; sourceTree = "<group>"; };
 		4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheets.swift; sourceTree = "<group>"; };
 		4A6BD2DD2A16151F00342D5C /* DatePickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickers.swift; sourceTree = "<group>"; };
@@ -218,6 +220,7 @@
 				4AD237E02A42D4030078307B /* ButtonStyles.swift */,
 				4AD237E22A4330660078307B /* ListSwipeActions.swift */,
 				4AAF56A729FA54CC00821C0E /* ConditionalStatements.swift */,
+				4A58A6A82A443E9100F25BB4 /* Badges.swift */,
 				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
 				4AF55CD329FA730B00BEB955 /* TernaryOperators.swift */,
 				4AF55CD529FA79B600BEB955 /* Animations.swift */,
@@ -325,6 +328,7 @@
 				4ABA5B8529F6C7B200B02F0E /* LazyGrid.swift in Sources */,
 				4ABA5B4929ED51DB00B02F0E /* TextView.swift in Sources */,
 				4ABA5B4D29ED7DDC00B02F0E /* Colors.swift in Sources */,
+				4A58A6A92A443E9100F25BB4 /* Badges.swift in Sources */,
 				4A7DE5DD29F95F4900C0ABF8 /* BindingView.swift in Sources */,
 				4AC8678A2A21FC1B00ACADD2 /* DarkMode.swift in Sources */,
 				4AD237E12A42D4030078307B /* ButtonStyles.swift in Sources */,
