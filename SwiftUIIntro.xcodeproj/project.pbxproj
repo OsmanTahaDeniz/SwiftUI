@@ -24,6 +24,7 @@
 		4A4DB4FA2A0A31D600F29D3D /* ListEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */; };
 		4A4DB4FE2A0B83DE00F29D3D /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */; };
 		4A58A6A92A443E9100F25BB4 /* Badges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A58A6A82A443E9100F25BB4 /* Badges.swift */; };
+		4A58A6AB2A45CBA800F25BB4 /* SubmitTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A58A6AA2A45CBA800F25BB4 /* SubmitTextField.swift */; };
 		4A6BD2DA2A136CD000342D5C /* ColorPickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2D92A136CD000342D5C /* ColorPickers.swift */; };
 		4A6BD2DC2A13BEEB00342D5C /* ActionSheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */; };
 		4A6BD2DE2A16151F00342D5C /* DatePickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6BD2DD2A16151F00342D5C /* DatePickers.swift */; };
@@ -92,6 +93,7 @@
 		4A4DB4F92A0A31D600F29D3D /* ListEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListEdit.swift; sourceTree = "<group>"; };
 		4A4DB4FD2A0B83DE00F29D3D /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		4A58A6A82A443E9100F25BB4 /* Badges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badges.swift; sourceTree = "<group>"; };
+		4A58A6AA2A45CBA800F25BB4 /* SubmitTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextField.swift; sourceTree = "<group>"; };
 		4A6BD2D92A136CD000342D5C /* ColorPickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickers.swift; sourceTree = "<group>"; };
 		4A6BD2DB2A13BEEB00342D5C /* ActionSheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheets.swift; sourceTree = "<group>"; };
 		4A6BD2DD2A16151F00342D5C /* DatePickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickers.swift; sourceTree = "<group>"; };
@@ -220,6 +222,7 @@
 				4AD237E02A42D4030078307B /* ButtonStyles.swift */,
 				4AD237E22A4330660078307B /* ListSwipeActions.swift */,
 				4AAF56A729FA54CC00821C0E /* ConditionalStatements.swift */,
+				4A58A6AA2A45CBA800F25BB4 /* SubmitTextField.swift */,
 				4A58A6A82A443E9100F25BB4 /* Badges.swift */,
 				4ABA5B4C29ED7DDC00B02F0E /* Colors.swift */,
 				4AF55CD329FA730B00BEB955 /* TernaryOperators.swift */,
@@ -368,6 +371,7 @@
 				4A4DB4F82A09335F00F29D3D /* Navigation.swift in Sources */,
 				4A6BD2DE2A16151F00342D5C /* DatePickers.swift in Sources */,
 				4ABA5B8929F7C71700B02F0E /* Buttons.swift in Sources */,
+				4A58A6AB2A45CBA800F25BB4 /* SubmitTextField.swift in Sources */,
 				4AA59CAE2A1253B200C73AEE /* PickerAndStyles.swift in Sources */,
 				4AD237DD2A41CFD90078307B /* BackgroundMaterials.swift in Sources */,
 				4A475B7C29F90FDB001C7ECC /* ExtractSubViews.swift in Sources */,
